@@ -12,7 +12,7 @@
     </div>
     <div>
         testing eka jadi zoldive
-        zoldives jadi eka
+        zoldives jadi eka korg
     </div>
 </body>
 </html>
