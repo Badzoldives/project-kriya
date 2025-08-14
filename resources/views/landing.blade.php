@@ -11,7 +11,7 @@
         <h2>anjay</h2>
     </div>
     <div>
-        testing eka jadi zoldive bddbwdbqk
+        testing eka jadi zoldive
         zoldives jadi eka
     </div>
 </body>
